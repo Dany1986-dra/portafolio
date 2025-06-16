@@ -11,6 +11,11 @@ sitios web responsivos y la publicación de proyectos.
 - Buenas prácticas de maquetación web
 - Ejemplos de proyectos realizados
 
+## Lenguajes utilizados
+
+![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+
 ## Estructura
 
 - `index.html` — Página principal del portafolio
