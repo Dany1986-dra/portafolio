@@ -3,7 +3,7 @@
 Este proyecto es un portafolio personal desarrollado como parte de la formación en HTML y CSS, enfocado en la creac
 sitios web responsivos y la publicación de proyectos.
 
-![img_proyecto](assets/captura de pantalla.jpg)
+![img_proyecto](https://github.com/Dany1986-dra/portafolio/blob/main/assets/captura%20de%20pantalla.jpg)
 
 ## Contenido
 
